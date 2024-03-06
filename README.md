@@ -1,2 +1,2 @@
 # ProjetBayesMathsapp
-Github Repo for Bayesian Course - Centrale Nantes
+Github Repo for Bayesian Course - Centrale Nantes - Mice
